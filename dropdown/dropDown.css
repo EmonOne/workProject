@@ -1,0 +1,23 @@
+.dropDown-UL{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    border: 1px solid #D5D5D5;
+    min-width: 151px;
+    display: none;
+    /*top: 110%;*/
+    left: 0px;
+    right: 0px;
+    background-color:white;
+    z-index: 1000;
+    /*float: left;*/
+}
+.dropDown-UL li{
+    list-style: none;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.dropDown-input{
+    min-width: 151px;
+    /*float: left;*/
+}
